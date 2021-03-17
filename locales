@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 , TSI
+https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmmpH3scMQeeHM0yaBYZI8FA)/dm/3/x7xs2wx/s/live-2.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+#EXTINF:-1 , Canal 5
+https://bcovlive-a.akamaihd.net:443/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/profile_2/chunklist.m3u8
+#EXTINF:-1 , HCH
+https://5d597bfcee285.streamlock.net/hch/hch/.m3u8
